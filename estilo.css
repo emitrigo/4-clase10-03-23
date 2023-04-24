@@ -1,0 +1,37 @@
+
+*{
+    color: white;
+    
+}
+body {background-color:rgb(1, 4, 37)}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+.color{
+    text-decoration: underline;
+    color: rgb(248, 232, 6);
+}
+a{
+    border: 1px solid coral;
+    border-radius: 100px;
+    padding: 5px;
+    
+   
+}
+ul{
+    color: rgb(238, 255, 0);
+}
+a:hover{
+    color: black;
+    background-color: white;
+}
+img{
+    margin-left: 25%;
+}
+.sinborde{
+    border: 1px;
+    border-radius: 0px;
+    
+}
+
